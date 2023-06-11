@@ -1,0 +1,16 @@
+h1{
+    color: aquamarine;
+    border: 2px;
+}
+h3{
+    display: inline;
+}
+small{
+    color: blue;
+    display: block;
+    background-color: brown;
+    margin: 20px;
+    border-left: yellow solid 5px;
+    font-size: 100px;
+    
+}
